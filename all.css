@@ -11638,10 +11638,6 @@ a:hover{text-decoration: none; cursor:pointer;}
 	margin-top:10px;
 	margin-bottom:20px;
 }
-.mg-lg{
-	margin-top:10px;
-	margin-bottom:40px;
-}
 
 /* = Buttons
 -------------------------------------------------------------- */
@@ -11848,6 +11844,10 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .icon-lime-green{
 	color:#29C83F!important;
 	border-color:#29C83F!important;
+}
+.icon-saffron{
+	color:#FDBC2D!important;
+	border-color:#FDBC2D!important;
 }
 
 /* Bloc image backgrounds */
